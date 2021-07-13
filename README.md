@@ -11,3 +11,4 @@ in browser check the url "http://localhost:8080"
 
 Jenkins url "http://3.35.2.229:9010/manage"
 hyunho check
+kyuwon test
